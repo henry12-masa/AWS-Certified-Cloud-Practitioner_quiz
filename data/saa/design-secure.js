@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.designSecure = [
+window.quizData.saaDesignSecure = [
 
 {
 q:"S3バケットを誤って公開しないために有効な機能は？",

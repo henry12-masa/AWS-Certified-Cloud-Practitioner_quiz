@@ -20,10 +20,10 @@ saa: {
   title: "AWS Solutions Architect Associate（SAA-C03）",
   desc: "セキュア設計・高可用性・性能・コスト最適化",
   categories: {
-    designSecure: "セキュア設計",
-    designResilient: "高可用性設計",
-    performance: "性能最適化",
-    cost: "コスト最適化"
+    saaDesignSecure: "セキュア設計",
+    saaDesignResilient: "高可用性設計",
+    saaPerformance: "性能最適化",
+    saaCost: "コスト最適化"
   }
 },
 

@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.designResilient = [
+window.quizData.saaDesignResilient = [
 
 {
 q:"高可用性を高める基本設計は？",

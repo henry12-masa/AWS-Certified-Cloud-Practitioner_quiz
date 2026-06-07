@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.saaperformance = [
+window.quizData.saaPerformance = [
 
 {
 q:"読み取り負荷が高いRDSの性能改善に有効なのは？",

@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.cost = [
+window.quizData.saaCost = [
 
 {
 q:"安定して長期間稼働するEC2に向く購入オプションは？",
