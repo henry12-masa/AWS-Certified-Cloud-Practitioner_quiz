@@ -8,11 +8,11 @@ const exams = {
   title: "AWS Certified Cloud Practitioner（CLF-C02）",
   desc: "クラウド基礎・セキュリティ・AWSサービス・料金",
   categories: {
-    cloudConcepts: "クラウド概念",
-    security: "セキュリティ",
-    technology: "AWSサービス",
-    billing: "料金・請求",
-    practice: "総合演習"
+    clfCloudConcepts: "クラウド概念",
+    clfSecurity: "セキュリティ",
+    clfTechnology: "AWSサービス",
+    clfBilling: "料金・請求",
+    clfPractice: "総合演習"
   }
 },
 

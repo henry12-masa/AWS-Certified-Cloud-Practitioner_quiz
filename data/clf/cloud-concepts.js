@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.cloudConcepts = [
+window.quizData.clfCloudConcepts = [
 
 {
 q:"AWS Certified Cloud Practitioner の試験コードは？",
@@ -120,7 +120,7 @@ a:"クラウドのインフラ"
 q:"クラウド移行のメリットとして適切なのは？",
 c:["グローバル展開しやすい","必ず費用がゼロになる","セキュリティ設定が不要になる","バックアップが不要になる"],
 a:"グローバル展開しやすい"
-}
+},
 
 {
 q:"クラウドの特徴で、必要に応じてリソースを拡張できる性質は？",

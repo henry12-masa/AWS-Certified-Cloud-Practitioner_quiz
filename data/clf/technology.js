@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.technology = [
+window.quizData.clfTechnology = [
 
 {
 q:"Amazon EC2は何を提供するサービス？",
