@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.security = [
+window.quizData.clfSecurity = [
 
 {
 q:"AWSの責任共有モデルで、IAM設定の責任は誰にある？",

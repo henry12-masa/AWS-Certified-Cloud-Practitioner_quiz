@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.cloudConcepts = [
+window.quizData.clfCloudConcepts = [
 
 {
 q:"AWS Certified Cloud Practitioner の試験コードは？",
