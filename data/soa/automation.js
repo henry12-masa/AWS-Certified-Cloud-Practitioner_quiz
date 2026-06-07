@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.soaautomation = [
+window.quizData.soaAutomation = [
 
 {
 q:"SOA-C02で自動化の中心となるサービスは？",

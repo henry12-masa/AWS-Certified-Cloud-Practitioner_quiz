@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.billing = [
+window.quizData.clfBilling = [
 
 {
 q:"AWSの基本的な料金体系は？",
