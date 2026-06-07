@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.dvasecurity = [
+window.quizData.dvaSecurity = [
 
 {
 q:"DVA-C02で重要なセキュリティ分野は？",

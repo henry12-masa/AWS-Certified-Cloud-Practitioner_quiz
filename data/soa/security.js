@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.soasecurity = [
+window.quizData.soaSecurity = [
 
 {
 q:"SOA-C02で重要なセキュリティ分野は？",
