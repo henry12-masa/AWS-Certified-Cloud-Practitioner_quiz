@@ -28,26 +28,26 @@ const exams = {
   },
 
   dva: {
-    title: "AWS Developer Associate（DVA-C02）",
-    desc: "開発・セキュリティ・デプロイ・監視",
-    categories: {
-      development: "開発",
-      security: "セキュリティ",
-      deployment: "デプロイ",
-      monitoring: "監視"
-    }
-  },
+  title: "AWS Developer Associate（DVA-C02）",
+  desc: "開発・セキュリティ・デプロイ・監視",
+  categories: {
+    dvaDevelopment: "開発",
+    dvaSecurity: "セキュリティ",
+    dvaDeployment: "デプロイ",
+    dvaMonitoring: "監視"
+  }
+},
 
   soa: {
-    title: "AWS SysOps Administrator（SOA-C02）",
-    desc: "監視・ネットワーク・セキュリティ・自動化",
-    categories: {
-      monitoring: "監視",
-      networking: "ネットワーク",
-      security: "セキュリティ",
-      automation: "自動化"
-    }
+  title: "AWS SysOps Administrator（SOA-C02）",
+  desc: "監視・ネットワーク・セキュリティ・自動化",
+  categories: {
+    soaMonitoring: "監視",
+    soaNetworking: "ネットワーク",
+    soaSecurity: "セキュリティ",
+    soaAutomation: "自動化"
   }
+ }
 };
 
 const currentExam = exams[exam] || exams.clf;
