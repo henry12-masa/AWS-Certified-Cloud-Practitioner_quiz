@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.deployment = [
+window.quizData.dvadeployment = [
 
 {
 q:"DVA-C02で重要なCI/CDサービスは？",

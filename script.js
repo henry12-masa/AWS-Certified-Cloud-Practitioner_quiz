@@ -5,29 +5,29 @@ const type = params.get("type");
 
 const exams = {
   clf: {
-    title: "AWS Certified Cloud Practitioner（CLF-C02）",
-    desc: "クラウド基礎・セキュリティ・AWSサービス・料金",
-    categories: {
-  clfCloudConcepts: "クラウド概念",
-  clfSecurity: "セキュリティ",
-  clfTechnology: "AWSサービス",
-  clfBilling: "料金・請求",
-  clfPractice: "総合演習"
-}
-  },
+  title: "AWS Certified Cloud Practitioner（CLF-C02）",
+  desc: "クラウド基礎・セキュリティ・AWSサービス・料金",
+  categories: {
+    cloudConcepts: "クラウド概念",
+    security: "セキュリティ",
+    technology: "AWSサービス",
+    billing: "料金・請求",
+    practice: "総合演習"
+  }
+},
 
-  saa: {
-    title: "AWS Solutions Architect Associate（SAA-C03）",
-    desc: "セキュア設計・高可用性・性能・コスト最適化",
-    categories: {
-  saaDesignSecure: "セキュア設計",
-  saaDesignResilient: "高可用性設計",
-  saaPerformance: "性能最適化",
-  saaCost: "コスト最適化"
-}
-  },
+saa: {
+  title: "AWS Solutions Architect Associate（SAA-C03）",
+  desc: "セキュア設計・高可用性・性能・コスト最適化",
+  categories: {
+    designSecure: "セキュア設計",
+    designResilient: "高可用性設計",
+    performance: "性能最適化",
+    cost: "コスト最適化"
+  }
+},
 
-  dva: {
+dva: {
   title: "AWS Developer Associate（DVA-C02）",
   desc: "開発・セキュリティ・デプロイ・監視",
   categories: {
@@ -38,7 +38,7 @@ const exams = {
   }
 },
 
-  soa: {
+soa: {
   title: "AWS SysOps Administrator（SOA-C02）",
   desc: "監視・ネットワーク・セキュリティ・自動化",
   categories: {
@@ -47,7 +47,7 @@ const exams = {
     soaSecurity: "セキュリティ",
     soaAutomation: "自動化"
   }
- }
+}
 };
 
 const currentExam = exams[exam] || exams.clf;

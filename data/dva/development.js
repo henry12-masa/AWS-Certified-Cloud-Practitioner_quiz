@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.development = [
+window.quizData.dvadevelopment = [
 
 {
 q:"DVA-C02で主に問われる内容は？",
