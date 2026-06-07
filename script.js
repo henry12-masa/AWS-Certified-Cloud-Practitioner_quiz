@@ -8,23 +8,23 @@ const exams = {
     title: "AWS Certified Cloud Practitioner（CLF-C02）",
     desc: "クラウド基礎・セキュリティ・AWSサービス・料金",
     categories: {
-      cloudConcepts: "クラウド概念",
-      security: "セキュリティ",
-      technology: "AWSサービス",
-      billing: "料金・請求",
-      practice: "総合演習"
-    }
+  clfCloudConcepts: "クラウド概念",
+  clfSecurity: "セキュリティ",
+  clfTechnology: "AWSサービス",
+  clfBilling: "料金・請求",
+  clfPractice: "総合演習"
+}
   },
 
   saa: {
     title: "AWS Solutions Architect Associate（SAA-C03）",
     desc: "セキュア設計・高可用性・性能・コスト最適化",
     categories: {
-      designSecure: "セキュア設計",
-      designResilient: "高可用性設計",
-      performance: "性能最適化",
-      cost: "コスト最適化"
-    }
+  saaDesignSecure: "セキュア設計",
+  saaDesignResilient: "高可用性設計",
+  saaPerformance: "性能最適化",
+  saaCost: "コスト最適化"
+}
   },
 
   dva: {
