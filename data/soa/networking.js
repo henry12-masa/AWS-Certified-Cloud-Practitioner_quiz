@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.networking = [
+window.quizData.soaNetworking = [
 
 {
 q:"AWS上で仮想ネットワークを作成するサービスは？",
