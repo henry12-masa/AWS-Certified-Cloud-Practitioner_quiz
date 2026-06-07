@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.soamonitoring = [
+window.quizData.soaMonitoring = [
 
 {
 q:"SOA-C02で重要な監視サービスは？",
