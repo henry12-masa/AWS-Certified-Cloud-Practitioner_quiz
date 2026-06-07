@@ -1,6 +1,6 @@
 window.quizData = window.quizData || {};
 
-window.quizData.dvamonitoring = [
+window.quizData.dvaMonitoring = [
 
 {
 q:"AWSで監視サービスとして利用するものは？",
